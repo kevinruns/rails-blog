@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../config"
+		},
+		{
+			"path": "../app/controllers"
+		},
+		{
+			"path": "../db/migrate"
+		},
+		{
+			"path": "../app/models"
+		},
+		{
+			"path": "../app/views"
+		}
+	]
+}
